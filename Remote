@@ -1,4 +1,4 @@
-# Author: Michael Wazir | WSU Everet | Lastt Modified: 5/1/17
+# Author: Michael Wazir | WSU Everet | Last Modified: 5/1/17
 # EE 234 - Final Project - RC Car
 # Hardware: chipKIT MX4 by Digilent | BT2 Bluetooth Module (Digilent) | Joystick Module (Digilent)
 # Description: This main file includes the code written to conrol an RC Car from a remote control via bluetooth.
